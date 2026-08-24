@@ -1,2 +1,2 @@
-# Probabbility-distribution
-Probabbility distribution example 
+# Probability distribution
+Probability distribution example ...
